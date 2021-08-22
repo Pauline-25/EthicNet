@@ -18,7 +18,7 @@ Nous allons tout d'abord nous pencher sur le dataset UTKFace, disponible à l'ad
 
 Le dataset contient des images brutes de plus de 23 000 visages dans des environnements divers, avec un seul visage par image. Le dataset contient également ces mêmes images centrées et rognées de taille 200x200x3. 
 
-![Exemple d'image](1_0_0_20161219154018476.jpg.chip.jpg "Exemple d'image")
+![Exemple d'image](image_baby.jpg "Exemple d'image")
 
 Les images sont catégorisées par âge, sexe et origine éthnique. Le nom de ces images est de la forme ``[age]_[sexe]_[origine_ethnique]_[date&time].jpg``.
 

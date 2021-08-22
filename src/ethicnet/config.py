@@ -1,1 +1,1 @@
-data_dir = '/media/hdd1/paulineberberi/EthicNet/UTKFace/'
+data_dir = 'D:\\Documents\\Cours\\Cesure\\Wavestone\\ethicnet\\UTKFace'
